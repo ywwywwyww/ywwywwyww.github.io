@@ -5,7 +5,6 @@ excerpt: "Miscellaneous"
 author_profile: true
 redirect_from: 
   - /misc/
-  - /miscellaneous/
   - /misc.html
   - /miscellaneous.html
 ---
