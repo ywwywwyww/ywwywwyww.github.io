@@ -27,7 +27,7 @@ The awards highlighted below represent my highest achievements in each competiti
 
 ## Hobbies
 
-Triathlon: Outside of the academic world, I have a passion for triathlons. They provide a great way to stay fit and challenge myself physically and mentally. Here are some of my personal bests:
+Outside of the academic world, I have a passion for triathlons. They provide a great way to stay fit and challenge myself physically and mentally. Here are some of my personal bests:
 - Triathlon: None
 - Swimming
   - 50m breaststroke: 37"44 (**1st place** of group B at the Tsinghua University Swimming Competition)
@@ -38,3 +38,5 @@ Triathlon: Outside of the academic world, I have a passion for triathlons. They 
   - 1km: 3:51
   - 5km: 24:42
   - Half marathon: 2:13:48
+
+Besides, I'm also a beginner in skiing and diving (I mean, jumping or falling into water from a platform or springboard).
