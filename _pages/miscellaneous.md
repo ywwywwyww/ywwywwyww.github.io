@@ -21,9 +21,9 @@ The awards highlighted below represent my highest achievements in each competiti
 - Olympiad in Informatics (OI) / Computing Olympiad: Participated in high school. 
   - National Olympiad in Informatics, China: **Gold medal, 14th place** (for two times), 2018 and 2019
   - National Olympiad in Informatics Team Selection, China: **Gold medal**, 2019
-  - Asia-Pacific Informatics Olympiad: [**International Gold medal, 3rd place (official)**](https://apio2018.ru/results/official-contest/), 2018
+  - Asia-Pacific Informatics Olympiad: <span style="color:gold">[**International Gold medal, 3rd place (official)**](https://apio2018.ru/results/official-contest/)</span>, 2018
   - Tsinghua University Programming Contest: **Gold medal, 2nd place**, 2018
-  - National Olympiad in Informatics Winter Camp, China: **Gold medal**, 2017
+  - National Olympiad in Informatics Winter Camp, China: <span style="color:gold">*Gold medal*</span>, 2017
 
 ## Hobbies
 
