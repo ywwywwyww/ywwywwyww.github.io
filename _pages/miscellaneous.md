@@ -29,10 +29,10 @@ The awards highlighted below represent my highest achievements in each competiti
 
 Outside of the academic world, I have a passion for triathlons. They provide a great way to stay fit and challenge myself physically and mentally. Here are some of my personal bests:
 - Triathlon: None
-- Swimming
-  - 50m breaststroke: 37"44 (**1st place** of group B at the Tsinghua University Swimming Competition)
+- Swimming:  
+  - 50m breaststroke: 37"44 (<span style="color:gold">**1st place**</span> of group B at the Tsinghua University Swimming Competition)
   - 50m freestyle: 31"40 (**4th place** of group B at the Tsinghua University Swimming Competition)
-  - 200m individual medley: 3'37"03 (**2nd place** of group B at the Tsinghua University Swimming Competition)
+  - 200m individual medley: 3'37"03 (<span style="color:silver">*2nd place*</span> of group B at the Tsinghua University Swimming Competition)
 - Cycling: None
 - Running:
   - 1km: 3:51
