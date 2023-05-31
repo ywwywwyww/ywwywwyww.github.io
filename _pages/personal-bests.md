@@ -19,6 +19,8 @@ redirect_from:
 - 50m freestyle: 
   - Tsinghua University Swimming Competition 2022: 31"40
   - Tsinghua University Swimming Competition 2021: 33"
+
+
 # Running
 - Half marathon
   - Tsinghua Half Marathon 2021: 2:13:48
