@@ -16,9 +16,9 @@ Here's a glance at some of the other things I've been involving in outside of my
 Outside of the academic world, I have a passion for triathlons. They provide a great way to stay fit and challenge myself physically and mentally. Here are some of my personal bests:
 - Triathlon: None
 - Swimming:  
-  - 50m breaststroke: 37"44 (&#129351;<span style="color:gold">*1st place*</span> of group B at the Tsinghua University Swimming Competition)
-  - 50m freestyle: 31"40 (<span style="color:black">*4th place*</span> of group B at the Tsinghua University Swimming Competition)
-  - 200m individual medley: 3'37"03 (&#129352;<span style="color:silver">*2nd place*</span> of group B at the Tsinghua University Swimming Competition)
+  - 50m breaststroke: 37"44 (&#129351;<span style="color:gold">*1st place*</span> of group B at the Tsinghua University Swimming Competition, 2022)
+  - 50m freestyle: 31"40 (<span style="color:black">*4th place*</span> of group B at the Tsinghua University Swimming Competition, 2022)
+  - 200m individual medley: 3'37"03 (&#129352;<span style="color:silver">*2nd place*</span> of group B at the Tsinghua University Swimming Competition, 2021)
 - Cycling: None
 - Running:
   - 1km: 3:51
