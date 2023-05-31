@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+Unless stated otherwise, author names are in **alphabetical order**. Listed in reverse chronological order.
+
+# Manuscripts
+- **Maximal $k$-Edge-Connected Subgraphs in Almost-linear Time**
+  Thatchaphol Saranurak and Wuwei Yuan.
+  Submitted to **ESA 2023**.
