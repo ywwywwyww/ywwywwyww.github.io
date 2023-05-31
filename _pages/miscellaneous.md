@@ -34,9 +34,13 @@ The awards highlighted below represent my highest achievements in each competiti
 - International Collegiate Programming Contest (ICPC) / China Collegiate Programming Contest (CCPC): Participated during my university years.
   - CCPC (Guangzhou), <span style="color:gold">*Gold medal, 6th place*</span>, 2022
   - ICPC, Asia Jinan Regional Contest: &#129352;<span style="color:gold">*Gold medal, 2nd place*</span>, 2020 
-- Olympiad in Informatics (OI) / Computing Olympiad: Participated in high school. 
-  - National Olympiad in Informatics, China: <span style="color:gold">*Gold medal, 14th place*</span> (for two times), 2018 and 2019
+- Olympiad in Informatics (OI, aka. Computing Olympiad): Participated in high school.
+  - National Olympiad in Informatics, China: <span style="color:gold">*Gold medal, 14th place*</span> (twice), 2018 and 2019
   - National Olympiad in Informatics Team Selection, China: <span style="color:gold">*Gold medal*</span>, 2019
   - Asia-Pacific Informatics Olympiad: &#129353;<a href="https://apio2018.ru/results/official-contest/" style="color:gold;">*International Gold medal, 3rd place (official)*</a>, 2018
   - Tsinghua University Programming Contest: &#129352;<span style="color:gold">*Gold medal, 2nd place*</span>, 2018
   - National Olympiad in Informatics Winter Camp, China: <span style="color:gold">*Gold medal*</span>, 2017
+- Other Contests
+  - Jingdong Programming and Algorithm Design Contest: &#129351;<span style="color:gold">*1st place*</span>, 2022
+  - China Computer Federation Certified Software Professional: &#129351;<span style="color:gold">*1st place*</span> (twice), 2020 and 2021
+  - Baidu Astar Programming Contest: <span style="color:black">*10th place*</span>, 2019
