@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /personal-bests/
 title: "Personal Bests"
 excerpt: "Personal Bests"
@@ -12,7 +11,7 @@ redirect_from:
   - /pbs.html
 ---
 
-# Swimming
+## Swimming
 - 50m breathstroke:
   - Tsinghua University Swimming Competition 2022: 37”44
   - Tsinghua University Swimming Competition 2021: ~39”
@@ -21,7 +20,7 @@ redirect_from:
   - Tsinghua University Swimming Competition 2021: ~33"
 
 
-# Running
+## Running
 - Half marathon
   - Tsinghua Half Marathon 2021: 2:13:48
   - Liupanshui (六盘水) Marathon 2019: 2:38:56
