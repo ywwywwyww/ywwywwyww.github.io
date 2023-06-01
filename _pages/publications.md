@@ -16,4 +16,4 @@ Unless stated otherwise, author names are in **alphabetical order**. Listed in r
 ## Manuscripts
 - **Maximal $k$-Edge-Connected Subgraphs in Almost-linear Time**<br>
   Thatchaphol Saranurak and Wuwei Yuan.<br>
-  Submited to *the 31st Annual European Symposium on Algorithms (ESA)*, 2023.
+  Submitted to *the 31st Annual European Symposium on Algorithms (ESA)*, 2023.
