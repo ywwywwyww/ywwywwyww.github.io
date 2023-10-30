@@ -34,8 +34,8 @@ Besides, I'm also a beginner in skiing and diving (I mean, jumping or falling in
 The awards highlighted below represent my highest achievements in each competition. For a comprehensive list of my accomplishments, please refer to my CV.
 
 - International Collegiate Programming Contest (ICPC) / China Collegiate Programming Contest (CCPC): Participated during my university years.
-  - CCPC (Guangzhou), <span style="color:gold">*Gold medal, 6th place*</span>, 2022
-  - ICPC, Asia Jinan Regional Contest: &#129352;<span style="color:gold">*Gold medal, 2nd place*</span>, 2020 
+  - International Collegiate Programming Contest, Asia Jinan Regional Contest: &#129352;<span style="color:gold">*Gold medal, 2nd place*</span>, 2020 
+  - China Collegiate Programming Contest (Guangzhou), <span style="color:gold">*Gold medal, 6th place*</span>, 2022
 - Olympiad in Informatics (OI, aka. Computing Olympiad): Participated in high school.
   - National Olympiad in Informatics, China: <span style="color:gold">*Gold medal, 14th place*</span> (twice), 2018 and 2019
   - National Olympiad in Informatics Team Selection, China: <span style="color:gold">*Gold medal*</span>, 2019
@@ -43,6 +43,7 @@ The awards highlighted below represent my highest achievements in each competiti
   - Tsinghua University Programming Contest: &#129352;<span style="color:gold">*Gold medal, 2nd place*</span>, 2018
   - National Olympiad in Informatics Winter Camp, China: <span style="color:gold">*Gold medal*</span>, 2017
 - Other Contests
+  - China Computer Federation Collegiate Computer Systemrs & Programming Contest: &#129352;<span style="color:gold">*Gold medal, 2nd place*</span>, 2023
   - Baidu Astar Programming Contest: <span style="color:black">*13th place*</span>, 2022
   - Jingdong Programming and Algorithm Design Contest: &#129351;<span style="color:gold">*1st place*</span>, 2022
   - China Computer Federation Certified Software Professional: &#129351;<span style="color:gold">*1st place*</span> (twice), 2020 and 2021
