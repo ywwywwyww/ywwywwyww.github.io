@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+**[CV (click here)](/files/CV.pdf)**
+
 Hello and welcome! I'm Wuwei Yuan (袁无为), a senior student at the [Institute for Interdisciplinary Information Sciences (IIIS, aka. Yao Class)](https://iiis.tsinghua.edu.cn/en/), Tsinghua University. 
 
 My main research interest lies in graph algorithms and other topics within theoretical computer science. During the spring and summer of 2023, I made a wonderful research visit at the University of Michigan, advised by [Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/?pli=1). I am currently applying for a Ph.D. program in Theoretical Computer Science for Fall 2024.
