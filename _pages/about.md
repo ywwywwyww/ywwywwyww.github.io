@@ -8,6 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZVTH79Y5H0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZVTH79Y5H0');
+</script>
+
 **[CV (click here)](/files/CV.pdf)**
 
 Hello and welcome! I'm Wuwei Yuan (袁无为), a senior student at the [Institute for Interdisciplinary Information Sciences (IIIS, aka. Yao Class)](https://iiis.tsinghua.edu.cn/en/), Tsinghua University. 
