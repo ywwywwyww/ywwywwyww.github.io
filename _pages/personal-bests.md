@@ -12,12 +12,17 @@ redirect_from:
 ---
 
 ## Swimming
-- 50m breathstroke:
+- 50m breaststroke:
+  - Tsinghua University Swimming Competition 2023: 40"46
   - Tsinghua University Swimming Competition 2022: 37”44
-  - Tsinghua University Swimming Competition 2021: ~39”
+  - Tsinghua University Swimming Competition 2021: 39”57
+- 100m breaststroke:
+  - Tsinghua University Swimming Competition 2023: 1'32"04
 - 50m freestyle: 
   - Tsinghua University Swimming Competition 2022: 31"40
   - Tsinghua University Swimming Competition 2021: ~33"
+- 200m individual medley:
+  - Tsinghua University Swimming Competition 2021: 3'37"03
 
 
 ## Running
