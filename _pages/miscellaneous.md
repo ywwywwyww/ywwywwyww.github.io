@@ -17,6 +17,7 @@ Outside of the academic world, I have a passion for triathlons. They provide a g
 - Triathlon: None
 - Swimming:  
   - 50m breaststroke: 37"44 (&#129351;<span style="color:gold">*1st place*</span> of group B[^1] at the Tsinghua University Swimming Competition, 2022)
+  - 100m breaststroke: 1'32"04 (<span style="color:black">*5th place*</span> of group B at the Tsinghua University Swimming Competition, 2023)
   - 50m freestyle: 31"40 (<span style="color:black">*4th place*</span> of group B at the Tsinghua University Swimming Competition, 2022)
   - 200m individual medley: 3'37"03 (&#129352;<span style="color:silver">*2nd place*</span> of group B at the Tsinghua University Swimming Competition, 2021)
 - Cycling: None
