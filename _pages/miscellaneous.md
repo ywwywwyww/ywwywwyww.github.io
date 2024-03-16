@@ -9,6 +9,12 @@ redirect_from:
   - /misc.html
 ---
 
+I like things that are fast in general: 
+- Fast graph algorithms
+- Sports (running, cycling, swimming, skiing, and probably more)
+- Formula One (I'm a fan of Guanyu Zhou, a Chinese racing driver  who currently competes for Stake F1 Team Kick Sauber)
+- High performance computing
+
 Here's a glance at some of the other things I've been involving in outside of my primary academic focus:
 
 ## Sports
