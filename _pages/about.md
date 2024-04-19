@@ -21,7 +21,7 @@ redirect_from:
 
 **[CV (click here)](/files/CV.pdf)**
 
-Hello and welcome! I'm Wuwei Yuan (袁无为), a senior student at the [Institute for Interdisciplinary Information Sciences (IIIS, aka. Yao Class)](https://iiis.tsinghua.edu.cn/en/), Tsinghua University. I will be joining ETH Zurich and working with [Prof. Rasmus Kyng](http://rasmuskyng.com) and [Dr. Maximilian Probst Gutenberg](https://sites.google.com/view/maximilianprobst/) in 2024 Fall. During the spring and summer of 2023, I made a wonderful research visit at the University of Michigan, advised by [Prof. Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/?pli=1).
+Hello and welcome! I'm Wuwei Yuan (袁无为), a senior student at the [Institute for Interdisciplinary Information Sciences (IIIS, aka. Yao Class)](https://iiis.tsinghua.edu.cn/en/), Tsinghua University. I will be joining ETH Zurich as a doctoral student working with [Prof. Rasmus Kyng](http://rasmuskyng.com) and [Dr. Maximilian Probst Gutenberg](https://sites.google.com/view/maximilianprobst/) in 2024 Fall. During the spring and summer of 2023, I made a wonderful research visit at the University of Michigan, advised by [Prof. Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/?pli=1).
 
 My main research interest lies in fast graph algorithms and other topics within algorithm design. I am especially interested in:
 - Fast graph algorithms using either discrete or continuous methods
