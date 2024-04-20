@@ -56,3 +56,13 @@ The awards highlighted below represent my highest achievements in each competiti
   - Jingdong Programming and Algorithm Design Contest: &#129351;<span style="color:gold">*1st place*</span>, 2022
   - China Computer Federation Certified Software Professional: &#129351;<span style="color:gold">*1st place*</span> (twice), 2020 and 2021
   - Baidu Astar Programming Contest: <span style="color:black">*10th place*</span>, 2019
+
+## Food
+
+I don't like:
+- Spicy foods
+- Sparkling water / soda
+- Alcoholic drinks
+
+I like:
+- Eggplant and potato the most among vegetables
