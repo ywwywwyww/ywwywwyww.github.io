@@ -63,3 +63,7 @@ I don't like:
 - Spicy foods
 - Sparkling water / soda
 - Alcoholic drinks
+
+## Music
+
+I can play the piano and the drums a bit. I like to listen to symphonies.
