@@ -63,6 +63,3 @@ I don't like:
 - Spicy foods
 - Sparkling water / soda
 - Alcoholic drinks
-
-I like:
-- Eggplant and potato the most among vegetables
