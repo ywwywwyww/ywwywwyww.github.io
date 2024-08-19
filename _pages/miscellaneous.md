@@ -10,11 +10,13 @@ redirect_from:
 ---
 
 I like things that are fast in general: 
-- Fast graph algorithms
+- Fast (graph) algorithms
 - Sports (running, cycling, swimming(I used to be a competitive swimmer), skiing(beginner), and probably more)
-- Karting(beginner) and Formula One (I'm a fan of Guanyu Zhou, a Chinese racing driver  who currently competes for Stake F1 Team Kick Sauber)
+- Karting(beginner) and Formula One (I'm a fan of Guanyu Zhou, a Chinese racing driver  who currently competes for Stake F1 Team Kick Sauber, and Max Verstappen)
 - Starship and other rockets
 - High performance computing
+
+Meanwhile, I am also interested in some card games, such as riichi mahjong and Texas hold 'em poker.
 
 Here's a glance at some of the other things I've been involving in outside of my primary academic focus:
 
