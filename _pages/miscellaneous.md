@@ -16,7 +16,7 @@ I like things that are fast in general:
 - Starship and other rockets
 - High performance computing
 
-Meanwhile, I am also interested in some card games, such as riichi mahjong and Texas hold 'em poker.
+Meanwhile, I am also interested in some card games, such as riichi mahjong and Texas hold 'em poker: maintain a balanced strategy to protect your equity, and maximize your profit by exploiting opponents' imbalances.
 
 Here's a glance at some of the other things I've been involving in outside of my primary academic focus:
 
