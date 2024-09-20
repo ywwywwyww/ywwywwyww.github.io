@@ -11,8 +11,8 @@ redirect_from:
 
 I like things that are fast in general: 
 - Fast (graph) algorithms
-- Sports (running, cycling, swimming(I used to be a competitive swimmer), skiing(beginner), and probably more)
-- Karting(beginner) and Formula One (I'm a fan of Guanyu Zhou, a Chinese racing driver  who currently competes for Stake F1 Team Kick Sauber, and Max Verstappen)
+- Sports: running, cycling, swimming(I used to be a competitive swimmer), skiing(beginner), and probably more
+- Karting(beginner) and Formula One: I'm a fan of Guanyu Zhou, a Chinese racing driver  who currently competes for Stake F1 Team Kick Sauber, and Max Verstappen
 - Starship and other rockets
 - High performance computing
 
