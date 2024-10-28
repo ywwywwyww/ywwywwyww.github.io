@@ -43,6 +43,9 @@ Besides, I'm also a beginner in skiing and diving (I mean, jumping or falling in
 
 The awards highlighted below represent my highest achievements in each competition. For a comprehensive list of my accomplishments, please refer to my CV.
 
+- Competitive Programming Platforms:
+  - Codeforces: <a href="https://codeforces.com/profile/ywwyww" style="color: red;">ywwyww</a>
+  - AtCoder: <a href="https://atcoder.jp/users/yww" style="color: orange;">yww</a>
 - International Collegiate Programming Contest (ICPC) / China Collegiate Programming Contest (CCPC): Participated during my university years.
   - International Collegiate Programming Contest, Asia Jinan Regional Contest: &#129352;<span style="color:gold">*Gold medal, 2nd place*</span>, 2020 
   - China Collegiate Programming Contest (Guangzhou), <span style="color:gold">*Gold medal, 6th place*</span>, 2022
