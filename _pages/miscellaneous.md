@@ -67,6 +67,8 @@ I don't like:
 - Spicy foods
 - Sparkling water / soda
 - Alcoholic drinks
+- Coffee
+- Tea
 
 ## Music
 
