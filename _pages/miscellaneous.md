@@ -47,8 +47,9 @@ The awards highlighted below represent my highest achievements in each competiti
   - Codeforces: <a href="https://codeforces.com/profile/ywwyww" style="color: red;">ywwyww</a>
   - AtCoder: <a href="https://atcoder.jp/users/yww" style="color: orange;">yww</a>
 - International Collegiate Programming Contest (ICPC) / China Collegiate Programming Contest (CCPC): Participated during my university years.
-  - International Collegiate Programming Contest, Asia Jinan Regional Contest: &#129352;<span style="color:gold">*Gold medal, 2nd place*</span>, 2020 
-  - China Collegiate Programming Contest (Guangzhou), <span style="color:gold">*Gold medal, 6th place*</span>, 2022
+  - ICPC, Southwestern Europe Regional Contest: <span style="color:silver">*Silver medal, 4th place*</span>, 2024
+  - ICPC, Asia Jinan Regional Contest: &#129352;<span style="color:gold">*Gold medal, 2nd place*</span>, 2020 
+  - CCPC (Guangzhou), <span style="color:gold">*Gold medal, 6th place*</span>, 2022
 - Olympiad in Informatics (OI, aka. Computing Olympiad): Participated in high school.
   - National Olympiad in Informatics, China: <span style="color:gold">*Gold medal, 14th place*</span> (twice), 2018 and 2019
   - National Olympiad in Informatics Team Selection, China: <span style="color:gold">*Gold medal*</span>, 2019
