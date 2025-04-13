@@ -12,7 +12,7 @@ redirect_from:
 I like things that are fast in general: 
 - Fast (graph) algorithms
 - Sports: running, cycling, swimming(I used to be a competitive swimmer), skiing(beginner), and probably more
-- Karting(beginner) and Formula One: I'm a fan of Guanyu Zhou, a Chinese racing driver who previously competed for Stake F1 Team Kick Sauber, and Max Verstappen
+- Karting(beginner) and Formula One: I'm a fan of ZHOU Guanyu who previously competed in F1, and Max Verstappen, the 4-time F1 world champion (du⬆️du⬆️du⬆️du⬇️)
 - Starship and other rockets
 - High performance computing
 
@@ -58,6 +58,7 @@ The awards highlighted below represent my highest achievements in each competiti
   - Tsinghua University Programming Contest: &#129352;<span style="color:gold">*Gold medal, 2nd place*</span>, 2018
   - National Olympiad in Informatics Winter Camp, China: <span style="color:gold">*Gold medal*</span>, 2017
 - Other Contests
+  - EPFL Helvic Coding Contest: &#129351;<span style="color:gold">*1st place*</span>, 2025
   - ICPC, Swiss Subregional Contest: <span style="color:black">*4th place*</span>, 2024
   - Lanqiao Cup National Software and Information Technology Professional Talent Competition National Finals, C/C++ Programming Contest, Graduate Group: &#129351;<span style="color:gold">*1st place*</span>, 2024
   - China Computer Federation Collegiate Computer Systemrs & Programming Contest: &#129352;<span style="color:gold">*2nd place*</span>, 2023
