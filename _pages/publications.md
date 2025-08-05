@@ -8,10 +8,16 @@ Unless stated otherwise, author names are in **alphabetical order**. Listed in r
 
 ## Manuscripts / In Submission
 
-- **Vertex Expander Decomposition and Pruning in Near-Linear Time**<br>
-  Thatchaphol Saranurak and Wuwei Yuan.
-
 ## Conference Papers
+
+- **Deterministic Almost-Linear-Time Gomory-Hu Trees** \[[arxiv](https://arxiv.org/abs/2507.20354)\]<br>
+  with Amir Abboud, Rasmus Kyng, Jason Li, Debmalya Panigrahi, Maximilian Probst Gutenberg, Thatchaphol Saranurak, and Weixuan Yuan<br>
+  *FOCS 2025*
+
 - **Maximal $k$-Edge-Connected Subgraphs in Almost-Linear Time for Small $k$** \[[arxiv](https://arxiv.org/abs/2307.00147)\]\[[slides](/files/Maximal_k_Edge_Connected_Subgraphs_Presentation.pdf)\]<br>
-  Thatchaphol Saranurak and Wuwei Yuan<br>
-  *The 31st Annual European Symposium on Algorithms (ESA)*, 2023.
+  with Thatchaphol Saranurak<br>
+  *ESA 2023*
+
+## Old Manuscripts
+- **Vertex Expander Decomposition and Pruning in Near-Linear Time** \[pdf-soon\]<br>
+  with Thatchaphol Saranurak.
