@@ -59,6 +59,7 @@ The awards highlighted below represent my highest achievements in each competiti
   - Tsinghua University Programming Contest: &#129352;<span style="color:gold">*Gold medal, 2nd place*</span>, 2018
   - National Olympiad in Informatics Winter Camp, China: <span style="color:gold">*Gold medal*</span>, 2017
 - Other Contests
+  - ICPC Challenge at World Finals Baku: <span style="color:black">*Third prize, 9th place*</span>, 2025
   - EPFL Helvic Coding Contest: &#129351;<span style="color:gold">*1st place*</span>, 2025
   - ICPC, Swiss Subregional Contest: <span style="color:black">*4th place*</span>, 2024
   - Lanqiao Cup National Software and Information Technology Professional Talent Competition National Finals, C/C++ Programming Contest, Graduate Group: &#129351;<span style="color:gold">*1st place*</span>, 2024
