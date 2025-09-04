@@ -47,7 +47,7 @@ The awards highlighted below represent my highest achievements in each competiti
   - Codeforces: <a href="https://codeforces.com/profile/ywwyww" style="color: red;">ywwyww</a>
   - AtCoder: <a href="https://atcoder.jp/users/yww" style="color: orange;">yww</a>
 - International Collegiate Programming Contest (ICPC) / China Collegiate Programming Contest (CCPC): Participated during my university years.
-  - ICPC, World Finals Baku, 2025: coming soon
+  - ICPC, World Finals Baku: <span style="color:black">*High honors, 36th place*</span>, 2025
   - ICPC, Europe Championship: &#129353;<span style="color:silver">*Silver medal, 3rd place*</span>, 2025
   - ICPC, Southwestern Europe Regional Contest: <span style="color:silver">*Silver medal, 4th place*</span>, 2024
   - ICPC, Asia Jinan Regional Contest: &#129352;<span style="color:gold">*Gold medal, 2nd place*</span>, 2020 
