@@ -78,6 +78,9 @@ I don't like:
 - Coffee
 - Tea
 
+- 
+I love Milan for its delicious food, especially its (somewhat) authentic Chinese cuisine.
+
 ## Music
 
 I can play the piano and the drums a bit. I like to listen to symphonies.
