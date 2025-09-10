@@ -78,7 +78,6 @@ I don't like:
 - Coffee
 - Tea
 
-- 
 I love Milan for its delicious food, especially its (somewhat) authentic Chinese cuisine.
 
 ## Music
