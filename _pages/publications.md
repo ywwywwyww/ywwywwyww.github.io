@@ -9,8 +9,7 @@ Unless stated otherwise, author names are in **alphabetical order**. Listed in r
 ## Manuscripts / In Submission
 
 - **A Simple and Fast Reduction from Gomory-Hu Trees to Polylog Maxflows** \[[arxiv](https://arxiv.org/abs/2509.02520)\]<br>
-  with Maximilian Probst Gutenberg, Rasmus Kyng, and Weixuan Yuan<br>
-  submitted to *SODA 2026*
+  with Maximilian Probst Gutenberg, Rasmus Kyng, and Weixuan Yuan
   
 ## Conference Papers
 
