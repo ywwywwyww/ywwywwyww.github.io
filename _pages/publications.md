@@ -7,11 +7,12 @@ author_profile: true
 Unless stated otherwise, author names are in **alphabetical order**. Listed in reverse chronological order.
 
 ## Manuscripts / In Submission
-
-- **A Simple and Fast Reduction from Gomory-Hu Trees to Polylog Maxflows** \[[arxiv](https://arxiv.org/abs/2509.02520)\]<br>
-  with Maximilian Probst Gutenberg, Rasmus Kyng, and Weixuan Yuan
   
 ## Conference Papers
+
+- **A Simple and Fast Reduction from Gomory-Hu Trees to Polylog Maxflows** \[[arxiv](https://arxiv.org/abs/2509.02520)\]<br>
+  with Maximilian Probst Gutenberg, Rasmus Kyng, and Weixuan Yuan<br>
+  *SODA 2026*
 
 - **Deterministic Almost-Linear-Time Gomory-Hu Trees** \[[arxiv](https://arxiv.org/abs/2507.20354)\]<br>
   with Amir Abboud, Rasmus Kyng, Jason Li, Debmalya Panigrahi, Maximilian Probst Gutenberg, Thatchaphol Saranurak, and Weixuan Yuan<br>
