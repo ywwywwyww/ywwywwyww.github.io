@@ -19,6 +19,8 @@ redirect_from:
   gtag('config', 'G-ZVTH79Y5H0');
 </script>
 
+**[CV (click here)](/files/CV_Wuwei_Yuan.pdf)**
+
 Hello and welcome! I'm Wuwei Yuan (袁无为), a second-year computer science master's and doctorate student at ETH Zürich in [Rasmus Kyng](http://rasmuskyng.com) and [Maximilian Probst Gutenberg](https://sites.google.com/view/maximilianprobst/)'s group. In June 2024, I finished my undergraduate studies at the [Institute for Interdisciplinary Information Sciences (IIIS, aka. Yao Class)](https://iiis.tsinghua.edu.cn/en/), Tsinghua. During the spring and summer of 2023, I had a wonderful research visit at the University of Michigan, advised by [Prof. Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/?pli=1).
 
 My main research interest lies in fast graph algorithms and other topics within algorithm design. I am especially interested in:
