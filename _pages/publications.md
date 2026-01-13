@@ -10,7 +10,7 @@ Unless stated otherwise, author names are in **alphabetical order**. Listed in r
   
 ## Conference Papers
 
-- **A Simple and Fast Reduction from Gomory-Hu Trees to Polylog Maxflows** \[[arxiv](https://arxiv.org/abs/2509.02520)\]<br>
+- **A Simple and Fast Reduction from Gomory-Hu Trees to Polylog Maxflows** \[[arxiv](https://arxiv.org/abs/2509.02520)\]\[[slides@SODA](/files/SimpleGHTreeSlides.pdf)\]<br>
   with Maximilian Probst Gutenberg, Rasmus Kyng, and Weixuan Yuan<br>
   *SODA 2026*
 
